@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+transformers==4.35.2
+sentence-transformers==2.2.2
+scikit-learn==1.3.2  # Added instead of faiss-cpu
+numpy==1.26.2
+langdetect==1.0.9
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.28.2
+SQLAlchemy==2.0.23
+pydantic==2.5.2
+mistralai==0.0.7
